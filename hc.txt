@@ -1,0 +1,24 @@
+
+Lista regalo = [Lampada, Stilografica, Libro]
+
+Lista NonAcquistabile = []?
+
+0 - accede su amazon
+1 - cerco regalo nella lista
+2 - se il regalo non è prime
+        Ripeti n.1
+3 - se il regalo non rientra nel budget
+        Ripeti n.1
+4 - se il regalo non è nè prime nè rientra nel budget
+        Ripeti n.1
+    Altrimenti
+        Aggiungo oggetto al carrello
+        Effettuo acquisto
+                    
+
+
+
+
+
+
+
